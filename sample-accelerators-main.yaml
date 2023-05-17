@@ -167,28 +167,6 @@ spec:
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
 kind: Accelerator
 metadata:
-  name: appsso-starter-java
-spec:
-  git:
-    ref:
-      branch: main
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
-    subPath: appsso-starter-java
----
-apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
-kind: Accelerator
-metadata:
-  name: where-for-dinner
-spec:
-  git:
-    ref:
-      branch: main
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
-    subPath: where-for-dinner
----
-apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
-kind: Accelerator
-metadata:
   name: java-function
 spec:
   git:
@@ -207,17 +185,6 @@ spec:
       branch: main
     url: https://github.com/vmware-tanzu/application-accelerator-samples.git
     subPath: java-rest-service
----
-apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
-kind: Accelerator
-metadata:
-  name: csharp-rest-service
-spec:
-  git:
-    ref:
-      branch: main
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
-    subPath: csharp-rest-service
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
 kind: Accelerator

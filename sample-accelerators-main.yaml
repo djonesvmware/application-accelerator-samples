@@ -8,7 +8,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/app-sso-client
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -20,7 +20,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/java-version
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -32,7 +32,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/live-update
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -44,7 +44,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/spring-boot-app-sso-auth-code-flow
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -56,7 +56,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/tap-initialize
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -68,7 +68,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/tap-workload
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -80,7 +80,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/spring-boot-database
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -92,7 +92,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/spring-boot-h2
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -104,7 +104,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/spring-boot-postgresql
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -116,7 +116,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/spring-boot-mysql
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -128,7 +128,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/testcontainers-postgresql
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -140,7 +140,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/testcontainers-mysql
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -152,7 +152,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/steeltoe-postgresql
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -164,7 +164,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/build-wrapper-gradle
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -176,7 +176,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: fragments/build-wrapper-maven
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -188,7 +188,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: java-function
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -200,7 +200,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: java-rest-service
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -212,7 +212,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: java-server-side-ui
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -224,7 +224,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: node-express
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -236,7 +236,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: node-function
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -248,7 +248,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: python-function
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -260,7 +260,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: spring-cloud-serverless
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -272,7 +272,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: spring-smtp-gateway
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -284,7 +284,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: tanzu-java-web-app
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -296,7 +296,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: tap-initialize
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -308,7 +308,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: weatherforecast-csharp
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -320,7 +320,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: weatherforecast-steeltoe
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -332,7 +332,7 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: angular-frontend
 ---
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
@@ -344,5 +344,5 @@ spec:
     ref:
       branch: main
       tag: tap-1.5.0
-    url: https://github.com/vmware-tanzu/application-accelerator-samples.git
+    url: https://github.com/djonesvmware/application-accelerator-samples.git
     subPath: react-frontend
